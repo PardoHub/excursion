@@ -24,3 +24,7 @@ body {
     font-family: Verdana;
     font-size: 21px;
   }
+  pl{
+    text-align: right;
+    color: gray;
+  }
