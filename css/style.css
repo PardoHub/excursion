@@ -24,7 +24,7 @@ body {
     font-family: Verdana;
     font-size: 21px;
   }
-  #footer{
+  a{
     text-align: right;
     color: gray;
   }
