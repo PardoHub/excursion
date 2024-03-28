@@ -28,5 +28,6 @@ body {
   }
   a{
     text-align: right;
-    color: gray;
+    color: aquamarine;
+    font-size: 16px;
   }
